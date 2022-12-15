@@ -8,7 +8,7 @@ html {
 }
 body {
   display: grid;
-  height: 100vh;
+  height: 90vh;
   place-items: center;
   background: #a0eeff;
 }
