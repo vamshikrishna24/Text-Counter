@@ -1,2 +1,2 @@
 # Text-Counter
-# [DEMO](https://vamshikrishna24.github.io/Text-Counter/)
+# [DEMO](https://text-counter-five.vercel.app/)
